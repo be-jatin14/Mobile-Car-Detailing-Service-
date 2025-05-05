@@ -47,5 +47,7 @@ To promote and validate tree planting efforts globally by issuing secure, transp
 - ✅ **Third-Party Verifier Support**  
   Allow organizations or NGOs to verify and co-sign issued certificates.
 
+![alt text](<Screenshot 2025-04-25 124039-1.png>)
+
 ---
 
